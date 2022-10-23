@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://paulomvrech.github.io/explorer-lab-01/" target="_blank">Explorer Lab #01 - RocketPay</a> 💳
+    <a href="https://explorer-lab-01-olive-five.vercel.app/" target="_blank">Explorer Lab #01 - RocketPay</a> 💳
 </h1>
 
 ## 💻 Sobre o projeto
